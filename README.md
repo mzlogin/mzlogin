@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey 👋, I'm [mzlogin](https://mazhuang.org)!
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=mzlogin&show_icons=true)
+
+<a title="Hits" target="_blank" href="https://github.com/mzlogin/mzlogin"><img src="https://hits.b3log.org/mzlogin/mzlogin.svg"></a>
 
 <!--
 **mzlogin/mzlogin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 ### Hey 👋, I'm [mzlogin](https://mazhuang.org)!
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=mzlogin&show_icons=true) <img style="max-width:144px;height:144px;width:144px;border:1px solid lightgrey" src="https://cdn.jsdelivr.net/gh/mzlogin/mzlogin.github.io@master/assets/images/qrcode.jpg" alt="闷骚的程序员">
+![Github Stats](https://github-readme-stats.vercel.app/api?username=mzlogin&show_icons=true) <img src="https://cdn.jsdelivr.net/gh/mzlogin/blog-assets@master/qrcode_196.jpg" alt="闷骚的程序员">
 
 <a title="Hits" target="_blank" href="https://github.com/mzlogin/mzlogin"><img src="https://hits.b3log.org/mzlogin/mzlogin.svg"></a>
 
